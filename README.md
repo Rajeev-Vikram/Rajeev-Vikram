@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajeev-Vikram
-- 👀 I’m interested in Single Cell Sequencing and Analysis
-- 🌱 I’m currently learning R and Python
+- 👀 I’m interested in integrated omics analysis
+- 🌱 I’m currently coding in R and learning Python
 - 💞️ I’m looking to collaborate on many aspects of computational cancer research
 - 📫 How to reach me: rajeev.vikram@gmail.com, vrajeev@ualberta.ca
 
